@@ -1,0 +1,7 @@
+
+.icon-cancelled:before { content: '\e800'; } /* '' */
+.icon-processing:before { content: '\e801'; } /* '' */
+.icon-completed:before { content: '\e802'; } /* '' */
+.icon-receipt-denied:before { content: '\e803'; } /* '' */
+.icon-receipt-ignored:before { content: '\e804'; } /* '' */
+.icon-pending:before { content: '\f0d6'; } /* '' */
